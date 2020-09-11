@@ -6,7 +6,9 @@ Simply clone this repo, and then access 'bin/executable.rb' in your command line
 Make sure that the file bin/executable.rb has the following code:
 
 nfl = League.new({name: "NFL", url: "https://www.nfl.com/network/"})
+
 Interaction.new(nfl)
 
 
 Link to liscence:
+https://github.com/etcusic/flatiron_cli/blob/master/LICENSE
